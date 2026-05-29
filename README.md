@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=00F2FE&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+FabriCTD+%F0%9F%91%BD;Python+Developer;Backend+%26+Discord+Bots;Building+the+Future..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=00F2FE&center=true&vCenter=true&width=530&lines=¡Hola!+Soy+FabriCTD+%F0%9F%91%BD;Desarrollador+Python;Backend+%26+Bots+de+Discord;Construyendo+el+futuro..." alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -26,7 +26,6 @@
 <h3 align="left">Backend & Scripting</h3>
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
 </p>
 
 <h3 align="left">Frontend & UI</h3>
