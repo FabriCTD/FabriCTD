@@ -54,7 +54,7 @@
 <details>
   <summary>🌐 <b>Advanced Discord Servers</b></summary>
   <br>
-  Servidores de discord super completos y con bots a medida, investiga todos los planes en [www.fabrictd.com](https://fabrictd.com/).
+  Servidores de discord super completos y con bots a medida, investiga todos los planes en www.fabrictd.com.
 </details>
 
 <details>
