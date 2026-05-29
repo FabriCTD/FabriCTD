@@ -40,7 +40,7 @@
 ## 🛠️ En lo que destaco
 
 <details>
-  <summary>💻 <b>Programas & Automatización (Python / C#)</b></summary>
+  <summary>💻 <b>Programas & Automatización (Python)</b></summary>
   <br>
   Desarrollo de software modular, escáneres de red, herramientas de automatización de tareas y complementos complejos que exprimen al máximo el rendimiento del sistema.
 </details>
@@ -49,6 +49,12 @@
   <summary>🤖 <b>Advanced Discord Bots</b></summary>
   <br>
   Bots multitarea con bases de datos integradas, sistemas de moderación inteligente, dashboards de control y arquitecturas escalables.
+</details>
+
+<details>
+  <summary>🌐 <b>Advanced Discord Servers</b></summary>
+  <br>
+  Servidores de discord super completos y con bots a medida, investiga todos los planes en [www.fabrictd.com](https://fabrictd.com/).
 </details>
 
 <details>
