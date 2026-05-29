@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=00F2FE&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+FabriCTD+%F0%9F%91%BD;Python+Developer;Backend+%26+Discord+Bots;Building+the+Future..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=00F2FE&center=true&vCenter=true&width=500&lines=Hola%2C+soy+FabriCTD+%F0%9F%91%BD;Desarrollador+De+Python;Python+Backend+%26+Servidores+de+Discord+y+Bots" alt="Typing SVG" />
 </p>
 
 <p align="center">
