@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1200&color=00F2FE&center=true&vCenter=true&width=600&lines=Hola%2C+soy+FabriCTD+%F0%9F%91%BD;Python+Backend+Developer;Frontend+en+HTML%2C+CSS%2C+JS%2C+Astro%2C+GSAP%2C+Lenis" alt="Texto Animado de Bienvenida" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1200&color=00F2FE&center=true&vCenter=true&width=600&lines=Hola%2C+soy+FabriCTD+%F0%9F%91%BD;Python+Backend+Developer;Frontend+en+HTML%2C+CSS%2C+JS%2C+GSAP%2C+Lenis" alt="Texto Animado de Bienvenida" />
 </p>
 
 <p align="center">
@@ -15,17 +15,19 @@
 
 ¡Buenas! Soy **Fabri**, un apasionado por el desarrollo de software y la automatización. Me encanta transformar ideas complejas en código limpio, eficiente y funcional. No me quedo en la superficie: me meto de lleno en la lógica del backend, el diseño de herramientas avanzadas y la creación de interfaces interactivas.
 
-* 🛠️ **Mi especialidad:** Desarrollo de software de escritorio, automatizaciones y lógica del lado del servidor.
-* 🤖 **Bots & Scripts:** Creación de bots de Discord avanzados, dinámicos y altamente optimizados.
-* 🌐 **Web:** Frontends dinámicos con animaciones fluidas y estructuras modernas.
+* 🎨 **Frontend:** `HTML`, `CSS`, `JS`, `GSAP`, `Lenis`, `Three.js`, `React`, `Next.js`
+* ⚙️ **Backend:** `Python`, `JSON`, `Node.js`
 
 ---
 
 ## 🚀 Mi Stack Tecnológico
 
-<h3 align="left">Backend & Scripting</h3>
+<h3 align="left">Backend, Scripting & DB</h3>
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" alt="JSON"/>
 </p>
 
 <h3 align="left">Frontend & UI</h3>
@@ -33,6 +35,8 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
 </p>
 
 ---
@@ -40,27 +44,27 @@
 ## 🛠️ En lo que destaco
 
 <details>
-  <summary>💻 <b>Programas & Automatización (Python)</b></summary>
+  <summary>💻 <b>Software & Automatización (Python)</b></summary>
   <br>
-  Desarrollo de software modular, escáneres de red, herramientas de automatización de tareas y complementos complejos que exprimen al máximo el rendimiento del sistema.
+  Hago herramientas para automatizar tareas pesadas, escáneres de red y programas personalizados bien optimizados para que el sistema vuele.
 </details>
 
 <details>
-  <summary>🤖 <b>Advanced Discord Bots</b></summary>
+  <summary>🗄️ <b>Bases de Datos (JSON & SQL)</b></summary>
   <br>
-  Bots multitarea con bases de datos integradas, sistemas de moderación inteligente, dashboards de control y arquitecturas escalables.
+  Estructuro y organizo la información de forma prolija, ya sea manejando datos dinámicos con archivos JSON o gestionando consultas eficientes en bases de datos SQL.
 </details>
 
 <details>
-  <summary>🌐 <b>Advanced Discord Servers</b></summary>
+  <summary>⚙️ <b>Lógica de Servidor (Backend)</b></summary>
   <br>
-  Servidores de discord super completos y con bots a medida, investiga todos los planes en www.fabrictd.com.
+  Armo toda la estructura interna de las aplicaciones usando Python y Node.js, conectando servicios, procesando datos y asegurando que todo funcione bien por detrás.
 </details>
 
 <details>
-  <summary>🎨 <b>Frontends Animados</b></summary>
+  <summary>🎨 <b>Webs y Animaciones (Frontend)</b></summary>
   <br>
-  Creación de interfaces web interactivas utilizando HTML, CSS y JavaScript moderno. Enfocado en microanimaciones, transiciones suaves y experiencias de usuario premium.
+  Diseño páginas web con HTML, CSS, JavaScript y frameworks modernos, enfocándome a fondo en transiciones suaves, animaciones fluidas y una experiencia visual de otro nivel.
 </details>
 
 ---
