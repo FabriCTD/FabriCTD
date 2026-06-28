@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1200&color=00F2FE&center=true&vCenter=true&width=600&lines=Hola%2C+soy+FabriCTD+%F0%9F%91%BD;Python+Backend+Developer;Frontend+en+HTML%2C+CSS%2C+JS%2C+GSAP%2C+Lenis" alt="Texto Animado de Bienvenida" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1200&color=00F2FE&center=true&vCenter=true&width=600&lines=Hola%2C+soy+FabriCTD+%F0%9F%91%BD;Desarrollador+Backend+con+Python;Frontend+con+React+y+Next.js;Animaciones+con+GSAP%2C+Lenis+y+Three.js" alt="Texto Animado de Bienvenida" />
 </p>
 
 <p align="center">
@@ -62,9 +62,9 @@
 </details>
 
 <details>
-  <summary>🎨 <b>Webs y Animaciones (Frontend)</b></summary>
+  <summary>🎨 <b>Webs Avanzadas y Animaciones (Frontend)</b></summary>
   <br>
-  Diseño páginas web con HTML, CSS, JavaScript y frameworks modernos, enfocándome a fondo en transiciones suaves, animaciones fluidas y una experiencia visual de otro nivel.
+  Creo páginas dinámicas usando React y Next.js, metiéndole animaciones fluidas y efectos visuales premium con GSAP, Lenis y Three.js para que la experiencia de usuario sea de otro nivel.
 </details>
 
 ---
