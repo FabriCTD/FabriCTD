@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1200&color=00F2FE&center=true&vCenter=true&width=600&lines=Hola%2C+soy+FabriCTD+%F0%9F%91%BD;Backend+con+Python;Frontend+con+React%2C+Next.js%2C;HTML%2C+CSS%2C+y+JS;Anims.+con+GSAP%2C+Lenis+y+Three.js" alt="Texto Animado de Bienvenida" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1200&color=00F2FE&center=true&vCenter=true&width=600&lines=Hola%2C+soy+FabriCTD;Backend+con+Python;Frontend+con+React%2C+Next.js%2C;HTML%2C+CSS%2C+y+JS;Anims%2E+con+GSAP%2C+Lenis+y+Three.js" alt="Texto Animado de Bienvenida" />
 </p>
 
 <p align="center">
