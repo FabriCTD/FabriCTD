@@ -67,17 +67,6 @@
   Creo páginas dinámicas usando React y Next.js, metiéndole animaciones fluidas y efectos visuales premium con GSAP, Lenis y Three.js para que la experiencia de usuario sea de otro nivel.
 </details>
 
----
-
-## 📊 Estadísticas de GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FabriCTD&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F2FE&icon_color=7F00FF&text_color=C9D1D9" alt="Stats de GitHub" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabriCTD&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F2FE&text_color=C9D1D9" alt="Lenguajes más usados" width="48%" />
-</p>
-
----
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer Wave"/>
 </p>
