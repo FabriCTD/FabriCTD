@@ -1,7 +1,3 @@
-esta es mi web actual, agrega este readme a mi web, es el que esta abajo, lo de la foto de perfil dejalo igual, osea foto y lo del avatar de discord, TODO lo otro cambialo, osea descripcion, links, y eso, y el fondo saca ese de steam rancio, y pone de fondo otra cosa, no se, un degrade re fachero en negro y blanco asi reflectante tipo prism, resend y cosas asi re pero re pero SUPER fachero., con animaciones de orbs de https://rareformlabs.github.io/thinking-orbs/ (npm install thinking-orbs), obvio no es una IA mi web, pero agregalas en algun lado, no se donde puede ser pero hacelo, y bueno eso, super fachero,
-
-ReadMe:
-
 # FabriCTD
 
 <div align="center">
@@ -53,5 +49,3 @@ ReadMe:
 * **Discord:** `fabri.ctd` *(solicitud)*
 * **Steam:** [FabriCTD](https://steamcommunity.com/id/FabriCTD)
 * **P2P-Talk:** `PROXIMAMENTE`
-
-inspirate en los datos de ese readme, obvio, no vas a poner el readme literal en la web jajaj
