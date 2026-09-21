@@ -1,11 +1,15 @@
+esta es mi web actual, agrega este readme a mi web, es el que esta abajo, lo de la foto de perfil dejalo igual, osea foto y lo del avatar de discord, TODO lo otro cambialo, osea descripcion, links, y eso, y el fondo saca ese de steam rancio, y pone de fondo otra cosa, no se, un degrade re fachero en negro y blanco asi reflectante tipo prism, resend y cosas asi re pero re pero SUPER fachero., con animaciones de orbs de https://rareformlabs.github.io/thinking-orbs/ (npm install thinking-orbs), obvio no es una IA mi web, pero agregalas en algun lado, no se donde puede ser pero hacelo, y bueno eso, super fachero,
+
+ReadMe:
+
 # FabriCTD
 
 <div align="center">
 
-**Radioaficionado.**
-**Desarrollador de software, diseño web, proyectos independientes.**
-
+**Radioaficionado. Desarrollador de software, diseño web y proyectos independientes.**  
 *Custodio de antenas LU4HH Radio Club Córdoba*
+
+[![Web](https://img.shields.io/badge/fabrictd.com-181717?style=flat&logo=globe&logoColor=white)](https://fabrictd.com)
 
 </div>
 
@@ -23,13 +27,12 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude_Code-D97706?style=for-the-badge&logo=anthropic&logoColor=white)
-![Antigravity](https://img.shields.io/badge/Antigravity-4F46E5?style=for-the-badge)
 
 ---
 
 ### Lo que hago
-* **Desarrollo de Software:** Aplicaciones de escritorio en Python, C, C++ y C#.
-* **Web & Frontend:** Interfaces con Astro y desarrollo frontend con integración a bases de datos (Supabase, SQLite, MySQL).
+* **Desarrollo de Software:** Aplicaciones de escritorio en Python, C, C++ y C# integradas con bases de datos locales y relacionales (SQLite, MySQL).
+* **Web & Frontend:** Interfaces con Astro y desarrollo frontend integrado con Supabase.
 * **Entorno y Herramientas:** Desarrollo con VS Code, Claude Code, Antigravity IDE y utilidades propias.
 * **Intereses & Enfoque:** Ciberseguridad, redes, arquitecturas P2P, servidores, centros de datos e infraestructura de IA. Futuro aspirante a [Ingeniería en Sistemas de Información (UTN FRC)](https://www.frc.utn.edu.ar/carreras/ingenieria-en-sistemas-de-informacion/).
 * **Pasatiempos:** Radioafición (principal), música, física, química e ingeniería nuclear.
@@ -50,3 +53,5 @@
 * **Discord:** `fabri.ctd` *(solicitud)*
 * **Steam:** [FabriCTD](https://steamcommunity.com/id/FabriCTD)
 * **P2P-Talk:** `PROXIMAMENTE`
+
+inspirate en los datos de ese readme, obvio, no vas a poner el readme literal en la web jajaj
